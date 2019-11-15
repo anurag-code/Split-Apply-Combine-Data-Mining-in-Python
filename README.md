@@ -1,4 +1,4 @@
-# Split-Apply-Combine Strategy for Data Mining
+# Split-Apply-Combine Strategy for Data Mining in Python
 
 [Link to the article](https://medium.com/analytics-vidhya/split-apply-combine-strategy-for-data-mining-4fd6e2a0cc99)
 
